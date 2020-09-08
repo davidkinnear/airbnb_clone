@@ -15,6 +15,7 @@
     position: absolute;
     left: 0;
     top: 380px;
+    margin-top: -31px;
 }
 
 .search > input {
@@ -25,6 +26,7 @@
     height: 30px;
     top: 420px;
     border: none;
+    margin-top: -19px;
   }
   
 .search > input:focus {
@@ -39,6 +41,7 @@
     background-color: #ff7779;
     color: white;
     width: 579px;
+    margin-top: -9px;
   }
 
 .search > button:hover {
